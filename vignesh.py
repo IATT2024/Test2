@@ -1,1 +1,1 @@
-print("Python is Best")
+print("Python is Waste")
